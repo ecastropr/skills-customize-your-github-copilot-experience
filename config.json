@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-validation-errors",
+      "title": "FastAPI Validation and Error Handling",
+      "description": "Strengthen a FastAPI task API with request validation, duplicate checks, and clear HTTP error responses.",
+      "path": "assignments/fastapi-validation-errors",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
